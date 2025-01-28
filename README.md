@@ -27,7 +27,7 @@ This repository contains a collection of assets for use in your projects. The as
 #### How to Download MP3 Files
 
 ##### 1) Navigate to the sounds folder:
-  Go to the sounds folder in this repository.
+  Go to the [sounds folder](https://github.com/ecemgo/assets/tree/main/sound) in this repository.
 
 ##### 2) Select the file:
 Click on the MP3 file you want to download.
