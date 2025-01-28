@@ -1,6 +1,8 @@
 # Assets Repository  
 
-This repository contains a collection of assets for use in web and app development projects. The assets are organized into folders for easy navigation and efficient resource management.  
+This repository contains a collection of assets for use in your projects. The assets are organized into folders for easy navigation.  
+
+<br>
 
 ## Folder Structure  
 
@@ -13,13 +15,31 @@ This repository contains a collection of assets for use in web and app developme
 ### Details  
 
 - **SVG**  
-  Use the `/svg` folder for all scalable vector graphics. These are ideal for icons, logos, and other resolution-independent assets.  
+  Use the `/svg` folder for all scalable vector graphics. These are ideal for icons, logos and other resolution-independent assets.  
 
 - **Sounds**  
   Keep audio files, such as sound effects and background music, in the `/sounds` folder.  
 
+<br>
+
 ## How to Use  
 
-1. Clone the repository:  
+#### How to Download MP3 Files
+
+##### 1) Navigate to the sounds folder:
+  Go to the sounds folder in this repository.
+
+##### 2) Select the file:
+Click on the MP3 file you want to download.
+
+##### 3) Download the file:
+
+- On the MP3 file's page, click the <b>Download</b> button or the <b>Raw</b> button.
+- If the file starts playing in the browser, right-click on the page and choose <b>Save As...</b> to save it to your device.
+
+<br>
+
+#### Alternatively, you can clone the repository to your local machine to download all files:
+
    ```bash
    git clone https://github.com/ecemgo/assets.git
