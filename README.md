@@ -37,9 +37,18 @@ Click on the MP3 file you want to download.
 - On the MP3 file's page, click the <b>Download</b> button or the <b>Raw</b> button.
 - If the file starts playing in the browser, right-click on the page and choose <b>Save As...</b> to save it to your device.
 
-<br>
 
 #### Alternatively, you can clone the repository to your local machine to download all files:
 
    ```bash
    git clone https://github.com/ecemgo/assets.git
+ ```
+
+<br>
+
+## Author
+
+- Github - [@ecemgo](https://github.com/ecemgo)
+- YouTube - [@ecemgokdogan](https://www.youtube.com/channel/UCktkPv17cw27PaFGcnZa_aQ)
+- CodePen - [@ecemgo](https://codepen.io/ecemgo)
+- Twitter - [@ecemgo](https://twitter.com/ecemgo)
