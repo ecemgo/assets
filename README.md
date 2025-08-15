@@ -9,7 +9,7 @@ This repository contains a collection of assets for use in your projects. The as
 ```
 /assets
   /svg -> Contains SVG vector files
-  /sounds -> Contains audio files in formats such as MP3
+  /sound -> Contains audio files in formats such as MP3
   /keyframes -> Contains keyframes for some CSS animations
 ```
 
@@ -18,7 +18,7 @@ This repository contains a collection of assets for use in your projects. The as
 - **SVG**  
   Use the `/svg` folder for all scalable vector graphics. These are ideal for icons, logos and other resolution-independent assets.
 
-- **Sounds**  
+- **Sound**  
   Keep audio files, such as sound effects and background music, in the `/sounds` folder.
 
 - **Keyframes**  
@@ -30,9 +30,9 @@ This repository contains a collection of assets for use in your projects. The as
 
 #### How to Download MP3 Files
 
-##### 1) Navigate to the sounds folder:
+##### 1) Navigate to the sound folder:
 
-Go to the [sounds folder](https://github.com/ecemgo/assets/tree/main/sound) in this repository.
+Go to the [sound folder](https://github.com/ecemgo/assets/tree/main/sound) in this repository.
 
 ##### 2) Select the file:
 
