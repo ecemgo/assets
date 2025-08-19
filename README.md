@@ -11,6 +11,7 @@ This repository contains a collection of assets for use in your projects. The as
   /svg -> Contains SVG vector files
   /sound -> Contains audio files in formats such as MP3
   /keyframes -> Contains keyframes for some CSS animations
+  /clip-paths -> Contains CSS clip-path shapes
 ```
 
 ### Details
@@ -23,6 +24,9 @@ This repository contains a collection of assets for use in your projects. The as
 
 - **Keyframes**  
   Store CSS keyframe animations in the `/keyframes` folder
+
+- **Clip-Paths**  
+  Store reusable CSS `clip-path` shapes in the `/clip-paths` folder. These shapes can be applied to elements to create custom frames, masks, or design effects.
 
 <br>
 
