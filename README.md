@@ -1,4 +1,4 @@
-# Assets Repository
+# Assets
 
 This repository contains a collection of assets for use in your projects. The assets are organized into folders for easy navigation.
 
